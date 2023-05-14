@@ -1,0 +1,12 @@
+[Trace 21:52:13.562] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:13.564] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:13.567] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:13.569] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Debug 21:52:13.626] LinkProvider: compute - file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:13.929] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:24.815] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:24.815] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Github/anonSms/README.md 1
+[Debug 21:52:24.815] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Debug 21:52:24.977] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Github/anonSms/README.md 1
+[Trace 21:52:25.164] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/l4z4rt/Documents/Github/anonSms/README.md
+[Trace 21:52:25.164] VsCodeClientWorkspace: deleteDocument: file:///home/l4z4rt/Documents/Github/anonSms/README.md

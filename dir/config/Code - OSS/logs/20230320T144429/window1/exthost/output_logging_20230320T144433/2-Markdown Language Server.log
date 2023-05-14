@@ -1,0 +1,8 @@
+[Trace 17:44:43.143] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/l4z4rt/Documents/Python/AnonSms/README.md
+[Trace 17:44:43.144] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Python/AnonSms/README.md
+[Trace 17:44:43.147] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Python/AnonSms/README.md
+[Trace 17:44:43.150] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Python/AnonSms/README.md
+[Trace 17:44:43.162] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Python/AnonSms/README.md 1
+[Debug 17:44:43.163] LinkProvider: compute - file:///home/l4z4rt/Documents/Python/AnonSms/README.md
+[Debug 17:44:43.290] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Python/AnonSms/README.md
+[Debug 17:44:43.353] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Python/AnonSms/README.md 1

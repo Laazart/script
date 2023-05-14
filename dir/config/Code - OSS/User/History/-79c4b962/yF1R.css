@@ -1,0 +1,45 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+
+*:after {
+    box-sizing: inherit;
+}
+
+body{
+    font-size: 1.6rem;
+    background-image: url('img/header-bg-goinnova.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 80px;
+}
+
+/**Utilidades**/
+
+/**Global**/
+h2{
+    font-size: 3.5rem;
+}
+
+/**Header**/
+
+.logoheader{
+  position: relative;
+  width:30rem;
+}
+.opciones{
+  position: absolute;
+  float: right;
+}
+/**Noticias**/
+
+
+/**Main**/
+
+/**Footer**/

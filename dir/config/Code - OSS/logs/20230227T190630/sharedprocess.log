@@ -1,0 +1,19 @@
+2023-02-27 19:06:32.796 [info] Starting worker process with pid 1673392 (type: fileWatcher, window: 1).
+2023-02-27 19:08:16.543 [info] Getting Manifest... ahmadawais.shades-of-purple
+2023-02-27 19:08:16.839 [info] Installing extension: ahmadawais.shades-of-purple
+2023-02-27 19:08:19.828 [info] Extracted extension to /home/l4z4rt/.vscode-oss/extensions/.25ec04c0-4f63-4d2e-9987-67c5928233c3: ahmadawais.shades-of-purple
+2023-02-27 19:08:19.832 [info] Renamed to /home/l4z4rt/.vscode-oss/extensions/ahmadawais.shades-of-purple-7.1.5-universal
+2023-02-27 19:08:19.836 [info] Extracting completed. ahmadawais.shades-of-purple
+2023-02-27 19:08:19.859 [info] Extension installed successfully: ahmadawais.shades-of-purple
+2023-02-27 19:08:43.821 [info] Getting Manifest... pkief.material-icon-theme
+2023-02-27 19:08:44.145 [info] Installing extension: pkief.material-icon-theme
+2023-02-27 19:08:47.758 [info] Extracted extension to /home/l4z4rt/.vscode-oss/extensions/.dc600317-1648-4c8d-9c42-f60d905c31e5: pkief.material-icon-theme
+2023-02-27 19:08:47.772 [info] Renamed to /home/l4z4rt/.vscode-oss/extensions/pkief.material-icon-theme-4.24.0-universal
+2023-02-27 19:08:47.776 [info] Extracting completed. pkief.material-icon-theme
+2023-02-27 19:08:47.791 [info] Extension installed successfully: pkief.material-icon-theme
+2023-02-27 19:09:04.938 [info] Getting Manifest... bierner.markdown-preview-github-styles
+2023-02-27 19:09:05.210 [info] Installing extension: bierner.markdown-preview-github-styles
+2023-02-27 19:09:07.644 [info] Extracted extension to /home/l4z4rt/.vscode-oss/extensions/.a6a89515-97cb-4f84-a5a3-0dccb393d117: bierner.markdown-preview-github-styles
+2023-02-27 19:09:07.664 [info] Renamed to /home/l4z4rt/.vscode-oss/extensions/bierner.markdown-preview-github-styles-0.1.6-universal
+2023-02-27 19:09:07.667 [info] Extracting completed. bierner.markdown-preview-github-styles
+2023-02-27 19:09:07.688 [info] Extension installed successfully: bierner.markdown-preview-github-styles

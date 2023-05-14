@@ -1,0 +1,14 @@
+2023-04-17 18:21:43.743 [info] Starting worker process with pid 140346 (type: fileWatcher, window: 1).
+2023-04-17 18:21:48.259 [info] Getting Manifest... pkief.material-icon-theme
+2023-04-17 18:21:50.663 [info] Installing extension: pkief.material-icon-theme
+2023-04-17 18:21:53.372 [info] Extension signature verification is not done: pkief.material-icon-theme
+2023-04-17 18:21:53.655 [info] Worker process with pid 140346 terminated normally (type: fileWatcher, window: 1).
+2023-04-17 18:21:53.683 [info] Starting worker process with pid 140967 (type: fileWatcher, window: 1).
+2023-04-17 18:21:54.155 [info] Extracted extension to /home/l4z4rt/.vscode-oss/extensions/.72f1be28-b3e2-43df-8b80-dd2483be4e5d: pkief.material-icon-theme
+2023-04-17 18:21:54.176 [info] Renamed to /home/l4z4rt/.vscode-oss/extensions/pkief.material-icon-theme-4.26.0-universal
+2023-04-17 18:21:54.176 [info] Extracting extension completed. pkief.material-icon-theme
+2023-04-17 18:21:54.188 [info] Extension installed successfully: pkief.material-icon-theme
+2023-04-17 18:21:54.192 [info] Marked extension as uninstalled pkief.material-icon-theme-4.25.0-universal
+2023-04-17 18:21:54.382 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-04-17 18:21:54.395 [info] Worker process with pid 140967 terminated normally (type: fileWatcher, window: 1).
+2023-04-17 18:21:54.419 [info] Starting worker process with pid 141026 (type: fileWatcher, window: 1).

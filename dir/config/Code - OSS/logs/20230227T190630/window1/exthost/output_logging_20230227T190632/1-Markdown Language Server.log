@@ -1,0 +1,932 @@
+[Trace 22:06:38.456] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:06:38.456] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:06:38.457] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:06:38.459] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:06:38.460] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 1
+[Debug 22:06:38.460] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:06:38.534] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:06:38.661] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 1
+[Trace 22:08:12.343] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:08:12.344] VsCodeClientWorkspace: deleteDocument: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:18.271] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:18.315] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:18.315] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:18.315] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:18.316] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 1
+[Debug 22:09:18.316] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:18.316] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:18.320] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:18.482] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 1
+[Trace 22:09:28.780] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:33.905] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 1
+[Trace 22:09:37.058] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:37.993] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:53.100] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.108] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.108] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:55.279] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 2
+[Debug 22:09:55.280] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:55.331] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.382] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.383] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.553] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.554] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.660] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:55.660] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:55.856] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 5
+[Debug 22:09:55.856] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:09:55.908] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:09:56.007] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 5
+[Trace 22:10:08.729] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:10:36.042] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:10:36.208] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 5
+[Trace 22:10:37.526] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:10:43.659] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 5
+[Trace 22:11:08.897] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:10.500] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:15.024] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:16.553] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:16.553] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:11:16.746] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 6
+[Debug 22:11:16.746] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:16.896] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 6
+[Debug 22:11:16.896] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:16.983] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:16.984] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:11:17.179] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 7
+[Debug 22:11:17.179] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:17.330] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 7
+[Debug 22:11:17.330] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:11:22.562] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:04.648] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:04.688] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:26.337] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:26.521] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 7
+[Debug 22:12:26.521] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:27.921] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:32.341] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:34.319] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:34.492] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 7
+[Trace 22:12:35.629] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:38.624] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 7
+[Trace 22:12:39.695] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:43.796] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:43.797] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:43.990] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 8
+[Debug 22:12:43.990] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:44.041] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:44.139] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 8
+[Trace 22:12:45.135] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:45.136] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:45.294] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 9
+[Debug 22:12:45.295] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:45.345] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:45.444] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 9
+[Trace 22:12:55.655] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:55.655] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:55.794] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:55.794] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:55.875] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:55.876] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:56.059] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 12
+[Debug 22:12:56.060] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:56.110] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.149] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.150] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:56.346] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 13
+[Debug 22:12:56.346] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.495] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 13
+[Debug 22:12:56.495] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.607] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.607] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.691] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:56.691] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:56.880] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 15
+[Debug 22:12:56.880] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:56.931] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.017] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.018] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:57.204] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 16
+[Debug 22:12:57.205] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:57.255] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.354] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 16
+[Trace 22:12:57.459] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.460] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.651] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.651] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:57.840] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 18
+[Debug 22:12:57.840] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:57.892] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:57.989] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 18
+[Trace 22:12:58.480] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:58.480] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:58.629] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:58.629] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:58.827] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 20
+[Debug 22:12:58.827] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:58.878] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:58.976] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 20
+[Trace 22:12:59.208] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:59.209] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:59.356] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:59.356] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:59.534] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 22
+[Debug 22:12:59.535] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:12:59.586] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:12:59.685] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 22
+[Trace 22:13:00.784] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:00.784] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:00.968] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 23
+[Debug 22:13:00.969] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:01.018] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.119] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 23
+[Trace 22:13:01.152] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.153] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.337] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.338] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.504] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.504] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:01.699] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 26
+[Debug 22:13:01.699] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:01.749] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.851] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 26
+[Trace 22:13:01.887] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.888] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.954] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:01.954] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:02.144] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 28
+[Debug 22:13:02.144] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:02.195] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:02.294] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 28
+[Trace 22:13:02.413] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:02.413] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:02.601] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 29
+[Debug 22:13:02.601] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:02.752] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 29
+[Debug 22:13:02.752] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:03.521] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:03.523] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:03.697] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 30
+[Debug 22:13:03.697] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:03.749] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:03.848] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 30
+[Trace 22:13:04.206] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.206] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:04.389] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 31
+[Debug 22:13:04.389] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.540] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 31
+[Debug 22:13:04.540] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.641] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.641] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.745] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.745] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.945] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:04.946] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:05.126] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 34
+[Debug 22:13:05.126] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:05.151] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:05.151] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:05.336] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 35
+[Debug 22:13:05.336] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:05.386] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:05.493] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:05.494] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:05.677] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 36
+[Debug 22:13:05.677] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:05.728] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:05.828] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 36
+[Trace 22:13:06.390] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.390] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.471] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.472] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:06.660] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 38
+[Debug 22:13:06.661] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:06.710] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.791] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.792] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.935] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:06.935] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:07.114] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 40
+[Debug 22:13:07.114] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.232] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.233] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.344] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.345] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.442] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.442] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.609] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.610] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:07.805] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 44
+[Debug 22:13:07.805] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:07.855] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.951] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:07.952] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:08.135] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 45
+[Debug 22:13:08.136] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:08.187] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:08.287] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 45
+[Trace 22:13:08.477] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:08.478] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:08.571] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:08.571] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:08.756] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 47
+[Debug 22:13:08.756] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:08.807] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:08.874] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:08.874] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:09.061] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 48
+[Debug 22:13:09.062] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:09.113] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:09.212] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 48
+[Trace 22:13:11.828] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:11.828] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.025] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.026] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.188] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.189] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.259] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.259] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:12.455] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 52
+[Debug 22:13:12.455] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:12.507] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:12.604] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 52
+[Trace 22:13:15.753] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:15.754] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:15.923] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:15.923] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:16.115] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 54
+[Debug 22:13:16.115] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:16.167] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:16.265] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 54
+[Trace 22:13:19.056] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:19.056] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:19.153] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:19.154] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:19.340] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 56
+[Debug 22:13:19.340] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:19.491] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 56
+[Debug 22:13:19.491] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:20.041] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:20.041] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:20.206] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:20.207] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:20.384] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 58
+[Debug 22:13:20.385] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:20.436] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:20.536] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 58
+[Trace 22:13:21.342] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:21.343] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:21.522] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 59
+[Debug 22:13:21.522] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:21.675] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 59
+[Debug 22:13:21.675] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:22.414] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:22.415] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:22.602] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 60
+[Debug 22:13:22.602] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:22.616] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:22.616] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:22.812] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 61
+[Debug 22:13:22.812] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:22.864] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:22.902] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:22.903] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.059] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.059] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.189] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.189] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:23.371] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 64
+[Debug 22:13:23.371] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:23.423] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.533] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.534] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:23.715] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 65
+[Debug 22:13:23.715] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:23.765] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.866] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 65
+[Trace 22:13:23.919] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:23.919] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:24.101] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 66
+[Debug 22:13:24.102] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.253] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 66
+[Debug 22:13:24.253] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.354] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.354] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.503] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.503] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:24.682] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 68
+[Debug 22:13:24.682] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.725] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.725] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.919] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:24.919] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:25.124] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 70
+[Debug 22:13:25.125] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.125] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:25.309] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 71
+[Debug 22:13:25.309] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.388] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.388] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.459] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.460] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.572] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.572] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:25.767] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 74
+[Debug 22:13:25.767] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:25.817] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:25.918] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 74
+[Trace 22:13:26.371] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:26.372] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:26.558] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:26.559] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:26.722] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:26.723] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:26.906] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 77
+[Debug 22:13:26.906] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:27.057] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 77
+[Debug 22:13:27.057] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:28.900] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:28.901] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.073] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.074] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:29.259] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 79
+[Debug 22:13:29.259] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:29.310] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.410] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 79
+[Trace 22:13:29.467] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.468] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.630] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.630] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:29.815] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 81
+[Debug 22:13:29.816] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:29.867] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:29.967] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 81
+[Trace 22:13:30.125] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:30.125] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:30.307] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 82
+[Debug 22:13:30.308] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:30.348] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:30.349] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:30.435] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:30.435] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:30.630] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 84
+[Debug 22:13:30.630] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:30.681] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:30.780] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 84
+[Trace 22:13:31.228] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.229] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:31.409] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 85
+[Debug 22:13:31.409] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:31.461] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.560] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 85
+[Trace 22:13:31.594] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.594] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:31.791] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 86
+[Debug 22:13:31.791] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.803] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.803] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.968] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:31.969] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:32.156] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 88
+[Debug 22:13:32.156] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:32.308] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 88
+[Debug 22:13:32.308] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:35.531] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:35.532] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:35.720] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 89
+[Debug 22:13:35.720] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:35.771] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:35.870] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 89
+[Trace 22:13:38.710] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:38.711] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:38.892] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 90
+[Debug 22:13:38.892] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:38.944] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:39.044] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 90
+[Trace 22:13:42.580] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:42.580] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:42.779] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 91
+[Debug 22:13:42.779] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:42.830] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:42.928] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 91
+[Trace 22:13:43.156] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:43.157] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:43.344] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 92
+[Debug 22:13:43.344] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:43.394] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:43.494] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 92
+[Trace 22:13:44.984] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:44.985] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:45.170] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 93
+[Debug 22:13:45.170] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.320] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 93
+[Debug 22:13:45.320] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.643] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.643] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.738] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.738] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.862] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.862] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.981] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:45.982] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:46.165] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 97
+[Debug 22:13:46.165] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.302] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.302] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:46.484] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 98
+[Debug 22:13:46.484] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.504] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.504] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.663] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.663] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.798] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.798] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.949] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:46.949] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:47.131] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 102
+[Debug 22:13:47.131] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.281] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 102
+[Debug 22:13:47.281] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.430] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.431] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.578] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.578] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.701] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.701] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.817] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.818] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.926] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:47.926] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:48.109] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 107
+[Debug 22:13:48.109] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.129] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.129] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.280] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.281] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.463] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.463] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.621] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.621] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:48.801] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 111
+[Debug 22:13:48.801] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.878] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.879] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.992] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:48.992] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:49.173] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 113
+[Debug 22:13:49.174] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:49.225] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:49.324] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 113
+[Trace 22:13:49.717] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:49.718] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:49.915] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 114
+[Debug 22:13:49.915] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:49.966] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.064] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 114
+[Trace 22:13:50.391] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.391] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.426] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.426] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.455] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.455] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.510] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.511] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.551] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.551] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.580] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.581] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.633] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.633] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.677] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.678] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.721] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.721] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.751] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.751] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.787] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:50.787] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:50.981] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 125
+[Debug 22:13:50.982] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.132] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 125
+[Debug 22:13:51.133] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.650] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.650] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.846] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.847] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.956] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:51.956] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.091] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.092] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:52.283] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 129
+[Debug 22:13:52.283] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.432] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 129
+[Debug 22:13:52.432] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.474] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.474] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:52.668] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 130
+[Debug 22:13:52.668] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.693] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.693] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.889] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:52.889] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.045] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.045] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.158] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.159] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.326] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.327] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.424] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.425] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.526] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:53.709] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 137
+[Debug 22:13:53.710] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.738] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.738] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.863] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.864] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.937] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:53.937] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.077] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.078] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.248] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.248] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.272] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.272] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.466] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.467] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:54.648] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 144
+[Debug 22:13:54.648] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.676] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.676] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:54.856] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 145
+[Debug 22:13:54.856] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.878] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:54.879] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:55.075] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 146
+[Debug 22:13:55.075] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:55.226] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 146
+[Debug 22:13:55.226] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.143] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.143] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:59.335] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 147
+[Debug 22:13:59.335] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:13:59.387] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.486] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 147
+[Trace 22:13:59.807] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.808] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.843] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.843] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.879] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.880] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.913] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.914] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:13:59.959] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.010] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.011] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.042] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.042] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.088] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.089] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.119] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.160] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.160] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.217] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.218] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.239] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.240] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.283] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.283] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.317] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.317] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.374] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.374] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.397] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.397] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.454] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.455] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.486] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.487] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.528] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.528] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.561] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.561] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.670] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.671] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.843] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:00.844] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:01.029] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 169
+[Debug 22:14:01.029] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.181] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 169
+[Debug 22:14:01.181] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.446] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.446] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.530] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.530] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:01.725] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 171
+[Debug 22:14:01.725] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.776] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:01.776] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:01.974] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 172
+[Debug 22:14:01.974] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:02.024] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:02.124] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 172
+[Trace 22:14:03.302] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.302] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.430] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:03.616] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 174
+[Debug 22:14:03.616] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:03.667] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.767] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 174
+[Trace 22:14:03.795] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.796] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.956] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:03.956] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:04.152] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 176
+[Debug 22:14:04.153] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:04.204] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:04.291] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:04.291] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:04.388] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:04.388] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:04.583] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 178
+[Debug 22:14:04.583] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:04.634] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:04.734] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 178
+[Trace 22:14:18.913] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:41.080] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:55.747] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:55.747] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:55.945] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 179
+[Debug 22:14:55.945] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:55.994] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.094] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 179
+[Trace 22:14:56.415] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.415] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.449] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.450] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.491] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.491] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.547] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.548] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.584] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.584] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.617] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.618] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.646] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.646] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.705] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.706] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.737] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.737] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.780] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.780] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.813] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.813] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.865] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.866] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.892] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.892] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.943] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.943] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.970] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:56.970] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:57.111] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:57.112] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:57.266] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:57.266] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:57.448] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 196
+[Debug 22:14:57.448] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:57.499] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:57.599] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 196
+[Trace 22:14:57.791] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:57.791] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:57.986] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 197
+[Debug 22:14:57.986] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:58.036] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:58.136] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 197
+[Trace 22:14:58.377] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:58.377] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:58.572] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 198
+[Debug 22:14:58.572] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:14:58.622] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:14:58.722] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 198
+[Trace 22:15:28.794] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:15:59.147] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:15:59.318] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 198
+[Trace 22:16:03.880] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:03.880] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:04.059] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 199
+[Debug 22:16:04.059] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:04.210] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 199
+[Debug 22:16:04.210] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.130] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.131] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.269] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.269] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:07.457] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 201
+[Debug 22:16:07.457] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.474] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.474] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.572] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.572] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:07.767] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 203
+[Debug 22:16:07.767] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:07.818] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.918] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 203
+[Trace 22:16:07.957] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:07.958] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.104] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.104] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:08.301] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 205
+[Debug 22:16:08.301] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:08.352] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.450] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 205
+[Trace 22:16:08.469] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.469] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.679] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.679] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.799] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.800] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.932] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:08.932] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:09.114] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 209
+[Debug 22:16:09.114] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.160] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.160] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.322] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.323] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:09.503] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 211
+[Debug 22:16:09.503] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.534] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.535] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.642] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.642] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.731] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.732] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.866] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.867] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:09.976] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.087] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.087] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.202] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.203] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.304] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.304] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.467] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.467] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.649] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.650] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.734] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.734] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.860] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.860] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:10.976] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.074] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.074] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.166] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.167] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.335] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.336] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.479] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.479] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.684] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.684] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.748] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.748] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.812] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:11.812] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:11.994] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 231
+[Debug 22:16:11.994] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:12.044] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.078] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.078] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.141] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.141] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.338] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.339] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:12.519] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 234
+[Debug 22:16:12.519] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.670] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 234
+[Debug 22:16:12.670] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.705] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.705] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.794] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:12.794] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:12.983] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 236
+[Debug 22:16:12.983] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:13.035] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:13.133] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 236
+[Trace 22:16:13.182] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:13.182] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:13.373] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 237
+[Debug 22:16:13.373] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:13.424] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:13.523] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 237
+[Trace 22:16:13.641] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:13.641] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:13.765] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:13.765] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:13.961] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 239
+[Debug 22:16:13.961] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:14.012] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:14.111] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 239
+[Trace 22:16:17.156] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:17.156] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:17.345] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:17.345] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:17.526] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 241
+[Debug 22:16:17.526] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:17.677] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 241
+[Debug 22:16:17.677] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:18.316] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:18.317] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:18.512] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 242
+[Debug 22:16:18.513] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:18.563] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:18.662] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 242
+[Trace 22:16:18.772] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:18.773] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:18.950] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 243
+[Debug 22:16:18.950] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:19.001] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:19.100] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 243
+[Trace 22:16:19.848] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:19.849] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:20.028] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 244
+[Debug 22:16:20.028] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:20.078] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.098] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.099] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:20.292] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 245
+[Debug 22:16:20.292] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:20.343] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.443] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 245
+[Trace 22:16:20.467] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.467] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.568] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.568] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.623] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.623] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:20.818] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 248
+[Debug 22:16:20.818] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:20.867] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:20.968] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 248
+[Trace 22:16:21.427] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.427] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.568] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.569] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.698] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.699] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.906] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:21.907] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:22.089] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 252
+[Debug 22:16:22.089] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.239] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 252
+[Debug 22:16:22.239] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.491] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.492] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.695] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.695] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.837] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:22.838] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:23.019] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 255
+[Debug 22:16:23.020] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:23.070] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:23.170] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 255
+[Trace 22:16:23.666] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:23.667] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:23.840] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:23.840] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:23.973] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:23.973] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.037] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.037] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:24.222] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 259
+[Debug 22:16:24.222] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:24.273] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.399] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.399] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:24.578] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 260
+[Debug 22:16:24.578] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:24.628] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.659] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.659] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.755] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:24.755] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:24.936] MdFoldingProvider: provideFoldingRanges — file:///home/l4z4rt/Documents/Bash/cto/README.md 262
+[Debug 22:16:24.937] TableOfContentsProvider: create - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Debug 22:16:24.988] LinkProvider: compute - file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:25.087] DocumentSymbolProvider: provideDocumentSymbols — file:///home/l4z4rt/Documents/Bash/cto/README.md 262
+[Trace 22:16:26.110] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:27.162] Server: connection.languages.diagnostics.on: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:29.257] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:29.263] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:29.269] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/l4z4rt/Documents/Bash/cto/README.md
+[Trace 22:16:29.442] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/l4z4rt/Documents/Bash/cto/README.md

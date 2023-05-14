@@ -1,0 +1,50 @@
+2023-04-17 18:21:43.515 [info] Extension host with pid 140237 started
+2023-04-17 18:21:43.636 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-17 18:21:43.638 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-04-17 18:21:43.682 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-17 18:21:43.682 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-17 18:21:43.849 [info] Eager extensions activated
+2023-04-17 18:21:43.890 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 18:21:43.891 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 18:21:43.891 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 18:21:44.839 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24881)
+	at /home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:18626)
+	at login (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async activate (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:151363)
+	at async E.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6646)
+	at async E.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6609)
+	at async E.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6066)
+2023-04-17 18:21:53.630 [info] Extension host terminating: received terminate message from renderer
+2023-04-17 18:21:53.648 [info] Extension host with pid 140237 exiting with code 0
+2023-04-17 18:21:54.926 [info] Extension host with pid 141032 started
+2023-04-17 18:21:54.926 [info] Skipping acquiring lock for /home/l4z4rt/.config/Code - OSS/User/workspaceStorage/79fd5ef6c1ae16b038db699293a84e51.
+2023-04-17 18:21:54.971 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-04-17 18:21:54.983 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-17 18:21:55.030 [info] Eager extensions activated
+2023-04-17 18:21:55.055 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 18:21:55.055 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 18:21:55.055 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-04-17 18:21:57.519 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-04-17 18:21:57.632 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+2023-04-17 18:21:58.637 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-04-17 18:21:58.637 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-17 18:21:58.779 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24881)
+	at /home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:18626)
+	at login (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async activate (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:151363)
+	at async E.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6646)
+	at async E.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6609)
+	at async E.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:6066)
+2023-04-17 18:22:07.546 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-04-17 18:44:57.000 [info] Extension host terminating: received terminate message from renderer
+2023-04-17 18:44:57.039 [info] Extension host with pid 141032 exiting with code 0

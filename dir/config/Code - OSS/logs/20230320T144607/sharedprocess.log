@@ -1,0 +1,4 @@
+2023-03-20 14:46:11.084 [info] Starting worker process with pid 41807 (type: fileWatcher, window: 1).
+2023-03-20 14:46:11.254 [info] Deleted from disk pkief.material-icon-theme /home/l4z4rt/.vscode-oss/extensions/pkief.material-icon-theme-4.24.0-universal
+2023-03-20 14:53:47.089 [info] Worker process with pid 41807 terminated normally (type: fileWatcher, window: 1).
+2023-03-20 14:53:48.388 [info] Starting worker process with pid 70982 (type: fileWatcher, window: 1).

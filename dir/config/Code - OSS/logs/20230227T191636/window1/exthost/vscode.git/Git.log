@@ -1,0 +1,110 @@
+2023-02-27 19:16:37.851 [info] Log level: Info
+2023-02-27 19:16:37.851 [info] Validating found git in: "git"
+2023-02-27 19:16:37.851 [info] Using git "2.39.2" from "git"
+2023-02-27 19:16:37.851 [info] > git rev-parse --show-toplevel [4ms]
+2023-02-27 19:16:37.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.851 [info] > git rev-parse --show-toplevel [0ms]
+2023-02-27 19:16:37.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.851 [info] > git rev-parse --show-toplevel [26ms]
+2023-02-27 19:16:37.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.852 [info] > git rev-parse --show-toplevel [13ms]
+2023-02-27 19:16:37.852 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.859 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-27 19:16:37.859 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.866 [info] > git rev-parse --show-toplevel [0ms]
+2023-02-27 19:16:37.866 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.873 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-27 19:16:37.873 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:37.880 [info] > git rev-parse --show-toplevel [0ms]
+2023-02-27 19:16:37.880 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:38.086 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-27 19:16:38.086 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:38.256 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-27 19:16:38.256 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:16:40.526 [info] > git rev-parse --show-toplevel [1ms]
+2023-02-27 19:16:40.532 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-02-27 19:16:40.545 [info] Open repository: /home/l4z4rt/Documents/Bash/cto
+2023-02-27 19:16:40.562 [info] > git config --get commit.template [9ms]
+2023-02-27 19:16:40.563 [info] No remotes found in the git config file.
+2023-02-27 19:16:40.563 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 19:16:40.587 [info] > git status -z -uall [9ms]
+2023-02-27 19:16:40.588 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 19:16:40.608 [info] No remotes found in the git config file.
+2023-02-27 19:16:40.609 [info] > git config --get commit.template [10ms]
+2023-02-27 19:16:40.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 19:16:40.669 [info] > git status -z -uall [51ms]
+2023-02-27 19:16:40.682 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [58ms]
+2023-02-27 19:16:41.135 [info] > git show --textconv :README.md [15ms]
+2023-02-27 19:16:41.136 [info] > git ls-files --stage -- /home/l4z4rt/Documents/Bash/cto/README.md [10ms]
+2023-02-27 19:16:41.248 [info] > git check-ignore -v -z --stdin [5ms]
+2023-02-27 19:19:44.514 [info] No remotes found in the git config file.
+2023-02-27 19:19:44.517 [info] > git config --get commit.template [20ms]
+2023-02-27 19:19:44.518 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-02-27 19:19:44.541 [info] > git status -z -uall [13ms]
+2023-02-27 19:19:44.542 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 19:20:39.796 [info] No remotes found in the git config file.
+2023-02-27 19:20:39.798 [info] > git config --get commit.template [5ms]
+2023-02-27 19:20:39.798 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 19:20:39.805 [info] > git status -z -uall [4ms]
+2023-02-27 19:20:39.805 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:20:39.915 [info] > git ls-files --stage -- /home/l4z4rt/Documents/Bash/cto/README.md [7ms]
+2023-02-27 19:20:39.940 [info] > git show --textconv :README.md [1ms]
+2023-02-27 19:20:44.818 [info] No remotes found in the git config file.
+2023-02-27 19:20:44.818 [info] > git config --get commit.template [5ms]
+2023-02-27 19:20:44.818 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 19:20:44.826 [info] > git status -z -uall [4ms]
+2023-02-27 19:20:44.826 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:21:20.603 [info] > git show --textconv :cto [11ms]
+2023-02-27 19:21:20.605 [info] > git ls-files --stage -- /home/l4z4rt/Documents/Bash/cto/cto [3ms]
+2023-02-27 19:21:39.307 [info] > git rev-parse --show-toplevel [2ms]
+2023-02-27 19:21:39.327 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-02-27 19:21:39.339 [info] Open repository: /home/l4z4rt/Documents/Bash/anony-sms
+2023-02-27 19:21:39.357 [info] > git config --get commit.template [10ms]
+2023-02-27 19:21:39.358 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-02-27 19:21:39.369 [info] > git status -z -uall [6ms]
+2023-02-27 19:21:39.369 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:21:39.385 [info] > git config --get commit.template [4ms]
+2023-02-27 19:21:39.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-02-27 19:21:39.401 [info] > git status -z -uall [4ms]
+2023-02-27 19:21:39.402 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:21:39.888 [info] > git check-ignore -v -z --stdin [3ms]
+2023-02-27 19:21:40.802 [info] > git config --get commit.template [4ms]
+2023-02-27 19:21:40.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-02-27 19:21:40.812 [info] > git status -z -uall [5ms]
+2023-02-27 19:21:40.812 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:24:53.496 [info] No remotes found in the git config file.
+2023-02-27 19:24:53.497 [info] > git config --get commit.template [9ms]
+2023-02-27 19:24:53.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 19:24:53.510 [info] > git status -z -uall [6ms]
+2023-02-27 19:24:53.510 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:25:32.740 [info] No remotes found in the git config file.
+2023-02-27 19:25:32.740 [info] > git config --get commit.template [16ms]
+2023-02-27 19:25:32.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 19:25:32.770 [info] > git status -z -uall [15ms]
+2023-02-27 19:25:32.772 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-02-27 19:25:33.849 [info] > git ls-files --stage -- /home/l4z4rt/Documents/Bash/cto/README.md [3ms]
+2023-02-27 19:25:33.872 [info] > git show --textconv :README.md [3ms]
+2023-02-27 19:25:40.794 [info] No remotes found in the git config file.
+2023-02-27 19:25:40.794 [info] > git config --get commit.template [4ms]
+2023-02-27 19:25:40.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-02-27 19:25:40.802 [info] > git status -z -uall [4ms]
+2023-02-27 19:25:40.802 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2023-02-27 19:25:49.255 [info] No remotes found in the git config file.
+2023-02-27 19:25:49.255 [info] > git config --get commit.template [6ms]
+2023-02-27 19:25:49.256 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-02-27 19:25:49.267 [info] > git status -z -uall [6ms]
+2023-02-27 19:25:49.267 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-02-27 19:25:54.350 [info] No remotes found in the git config file.
+2023-02-27 19:25:54.351 [info] > git config --get commit.template [16ms]
+2023-02-27 19:25:54.352 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-02-27 19:25:54.371 [info] > git status -z -uall [8ms]
+2023-02-27 19:25:54.372 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-02-27 19:37:03.041 [info] > git rev-parse --show-toplevel [3ms]
+2023-02-27 19:37:03.042 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-02-27 19:37:33.901 [info] > git check-ignore -v -z --stdin [6ms]
+2023-02-27 19:37:33.902 [info] > git check-ignore -v -z --stdin [1ms]
+2023-02-27 19:40:34.441 [info] No remotes found in the git config file.
+2023-02-27 19:40:34.443 [info] > git config --get commit.template [13ms]
+2023-02-27 19:40:34.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-27 19:40:34.471 [info] > git status -z -uall [13ms]
+2023-02-27 19:40:34.472 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]

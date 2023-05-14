@@ -1,0 +1,11 @@
+2023-04-17 18:21:40.470 [info] update#ctor - updates are disabled as there is no update URL
+2023-04-17 18:21:42.720 [info] Starting extension host with pid 140237 (fork() took 24 ms).
+2023-04-17 18:21:53.679 [info] Extension host with pid 140237 exited with code: 0, signal: null.
+2023-04-17 18:21:54.404 [info] Starting extension host with pid 141032 (fork() took 8 ms).
+2023-04-17 18:44:57.029 [warning] Sending IPC message to channel 'vscode:reportError' for window that is destroyed
+2023-04-17 18:44:57.030 [error] [uncaught exception in main]: TypeError: Object has been destroyed
+2023-04-17 18:44:57.031 [error] TypeError: Object has been destroyed
+    at b.send (node:electron/js2c/browser_init:161:2484)
+    at Function.callback (/usr/lib/code/out/vs/code/electron-main/main.js:16:79559)
+2023-04-17 18:44:57.041 [info] Waiting for extension host with pid 141032 to exit.
+2023-04-17 18:44:57.057 [info] Extension host with pid 141032 exited with code: 0, signal: null.

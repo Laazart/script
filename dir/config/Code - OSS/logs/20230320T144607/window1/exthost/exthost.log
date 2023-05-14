@@ -1,0 +1,663 @@
+2023-03-20 14:46:11.015 [info] Extension host with pid 41721 started
+2023-03-20 14:46:11.374 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-20 14:46:11.374 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-20 14:46:11.374 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-20 14:46:11.374 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-20 14:46:11.375 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-03-20 14:46:11.502 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-20 14:46:11.503 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-20 14:46:11.600 [info] Eager extensions activated
+2023-03-20 14:46:11.643 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-20 14:46:11.644 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-20 14:46:11.644 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-03-20 14:46:11.961 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-03-20 14:46:12.490 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24881)
+	at /home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:18626)
+	at login (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async activate (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:151363)
+	at async f.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6818)
+	at async f.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6781)
+	at async f.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6238)
+2023-03-20 14:52:27.312 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.360 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.411 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.461 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.840 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.890 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.945 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:27.999 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.050 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.100 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.154 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.209 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.264 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.314 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.363 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:52:28.416 [error] Error: Illegal value for `line`
+	at v.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:966)
+	at Object.lineAt (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:95:90)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064881
+	at t.scrollEditorToLine (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2064951)
+	at d.C (/usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2053005)
+	at /usr/lib/code/extensions/markdown-language-features/dist/extension.js:2:2051071
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at c.$onMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:165155)
+	at a.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+	at a.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+	at a.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:10034)
+	at a.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9172)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at m.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at d.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at Socket.t (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-20 14:53:47.067 [info] Extension host terminating: received terminate message from renderer
+2023-03-20 14:53:47.081 [info] Extension host with pid 41721 exiting with code 0
+2023-03-20 14:53:48.709 [info] Extension host with pid 70953 started
+2023-03-20 14:53:48.709 [info] Skipping acquiring lock for /home/l4z4rt/.config/Code - OSS/User/workspaceStorage/e7973396a916ea1c4f19293f84911599.
+2023-03-20 14:53:48.920 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-20 14:53:48.920 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-20 14:53:48.921 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-03-20 14:53:48.921 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-20 14:53:48.921 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-03-20 14:53:49.244 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-20 14:53:49.245 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-20 14:53:49.328 [info] Eager extensions activated
+2023-03-20 14:53:49.360 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-20 14:53:49.361 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-20 14:53:49.361 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-03-20 14:53:50.294 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24881)
+	at /home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:18626)
+	at login (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async activate (/home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal/dist/extension.js:2:151363)
+	at async f.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6818)
+	at async f.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6781)
+	at async f.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6238)
+2023-03-20 14:53:54.301 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-03-20 14:53:56.478 [info] Extension host terminating: received terminate message from renderer
+2023-03-20 14:53:56.499 [info] Extension host with pid 70953 exiting with code 0

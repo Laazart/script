@@ -1,0 +1,7 @@
+2023-02-27 19:16:37.851 [info] Starting worker process with pid 1771634 (type: fileWatcher, window: 1).
+2023-02-27 19:37:00.804 [info] Getting Manifest... icrawl.discord-vscode
+2023-02-27 19:37:01.118 [info] Installing extension: icrawl.discord-vscode
+2023-02-27 19:37:02.728 [info] Extracted extension to /home/l4z4rt/.vscode-oss/extensions/.bab7d185-2616-40ab-98c6-bf310577637e: icrawl.discord-vscode
+2023-02-27 19:37:02.733 [info] Renamed to /home/l4z4rt/.vscode-oss/extensions/icrawl.discord-vscode-5.8.0-universal
+2023-02-27 19:37:02.738 [info] Extracting completed. icrawl.discord-vscode
+2023-02-27 19:37:02.755 [info] Extension installed successfully: icrawl.discord-vscode
